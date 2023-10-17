@@ -469,7 +469,7 @@ footer {
       
 
 
-      .topnav.responsive {position: relative;}
+      .topnav.responsive {position: fixed;}
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
